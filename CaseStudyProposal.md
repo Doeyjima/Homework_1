@@ -22,6 +22,7 @@ Apple pay is the first bridge between the current physical world of payments and
 - Usablitiy 
 - Adoptions and influence
 
+
 ## Resources
 [Apple Wikipedia Page] (https://en.wikipedia.org/wiki/Apple_Inc)
 
@@ -32,3 +33,5 @@ Apple pay is the first bridge between the current physical world of payments and
 [Apple Pay Security and privacy overview] (https://support.apple.com/en-us/HT203027)
 
 [Apple pay users vulnerable to security hack due to dangerous flaw] (https://www.standard.co.uk/tech/apple-pay-users-vulnerable-to-security-hack-experts-warn-b958014.html)
+
+[Apple $Funding] (https://www.crunchbase.com/organization/apple/company_financials)
